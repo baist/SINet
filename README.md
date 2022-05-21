@@ -26,7 +26,7 @@ SANet: Statistic Attention Network for Video-Based Person Re-Identiﬁcation (TC
   ```
   
 
-### Pretrained Models
+### Pretrained models
 
 #### MARS
 |     Methods                   | Paper | Reproduce | Download |

@@ -34,7 +34,7 @@ SANet: Statistic Attention Network for Video-Based Person Re-Identiﬁcation (TC
 | SBNet (ResNet50 + SBM)        | 85.7/90.2 | 85.6/90.7 | [model](https://drive.google.com/file/d/1l0VeAzZ1-Z7Gbrp6jLuF_C6MIAiamrpQ/view?usp=sharing) | 
 | IDNet (Resnet50 + IDM)        | 85.9/90.5 | 85.9/90.4 | [model](https://drive.google.com/file/d/1XxJUxaUXDDB1cq6d6W5aGfwj54OvqW5N/view?usp=sharing) |
 | **SINet** (ResNet50 + SBM + IDM)  | 86.2/91.0 | 86.3/90.9 | [model](https://drive.google.com/file/d/18YKaBdexzc49A-zhmT8vJY_xug_eLiYF/view?usp=sharing) | 
-| **SANet** (ResNet50 + SA Block) | 86.0/91.2 | 86.7/91.2 | -- | 
+| **SANet** (ResNet50 + SA Block) | 86.0/91.2 | 86.7/91.2 | [model]((https://drive.google.com/file/d/1yhX4trD02-ryJ7jRObstmHk9IZb9Smc3/view?usp=sharing)) | 
 
 
 #### LS-VID

@@ -31,9 +31,9 @@ SANet: Statistic Attention Network for Video-Based Person Re-Identiﬁcation (TC
 #### MARS
 |     Methods                   | Paper | Reproduce | Download |
 |----- | -----| ----- | -----| 
-| SBNet (ResNet50 + SBM)        | 85.7/90.2 | 85.6/90.7 | -- | 
-| IDNet (Resnet50 + IDM)        | 85.9/90.5 | 85.9/90.4 | -- |
-| **SINet** (ResNet50 + SBM + IDM)  | 86.2/91.0 | 86.3/90.9 | -- | 
+| SBNet (ResNet50 + SBM)        | 85.7/90.2 | 85.6/90.7 | [model](https://drive.google.com/file/d/1l0VeAzZ1-Z7Gbrp6jLuF_C6MIAiamrpQ/view?usp=sharing) | 
+| IDNet (Resnet50 + IDM)        | 85.9/90.5 | 85.9/90.4 | [model](https://drive.google.com/file/d/1XxJUxaUXDDB1cq6d6W5aGfwj54OvqW5N/view?usp=sharing) |
+| **SINet** (ResNet50 + SBM + IDM)  | 86.2/91.0 | 86.3/90.9 | [model](https://drive.google.com/file/d/18YKaBdexzc49A-zhmT8vJY_xug_eLiYF/view?usp=sharing) | 
 | **SANet** (ResNet50 + SA Block) | 86.0/91.2 | 86.7/91.2 | -- | 
 
 
@@ -41,9 +41,9 @@ SANet: Statistic Attention Network for Video-Based Person Re-Identiﬁcation (TC
 
 |     Methods                   | Paper | Reproduce | Download |
 |----- | -----| ----- | -----| 
-| SBNet (ResNet50 + SBM)        | 77.1/85.1 | 77.2/85.3 | -- | 
-| IDNet (Resnet50 + IDM)        | 78.0/86.2 | 78.2/86.0 | -- |
-| **SINet** (ResNet50 + SBM + IDM)  | 79.6/87.4 | 79.9/87.2 | -- | 
+| SBNet (ResNet50 + SBM)        | 77.1/85.1 | 77.2/85.3 | [model](https://drive.google.com/file/d/1bAxPRKoFoLluP3dVpzpsEJCY_kJhaL2v/view?usp=sharing) | 
+| IDNet (Resnet50 + IDM)        | 78.0/86.2 | 78.2/86.0 | [model](https://drive.google.com/file/d/1l-vH5huoodRjiNBbfWAZIjLdXekAi70X/view?usp=sharing) |
+| **SINet** (ResNet50 + SBM + IDM)  | 79.6/87.4 | 79.9/87.2 | [model](https://drive.google.com/file/d/1Xdd_XUPyhbrrB06wDq_qUdUzMKdjD9FK/view?usp=sharing) | 
 
 ### Citation
 
